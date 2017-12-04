@@ -28,4 +28,13 @@
     <ConsolePause>false</ConsolePause>
   </PropertyGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <ItemGroup>
+    <Compile Include="Program.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\WyvernScript\WyvernScript.csproj">
+      <Project>{94944E16-8727-4A50-8375-21C8BD829389}</Project>
+      <Name>WyvernScript</Name>
+    </ProjectReference>
+  </ItemGroup>
 </Project>

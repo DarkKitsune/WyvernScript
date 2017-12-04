@@ -1,0 +1,5 @@
+/home/dark/Projects/CSharp/WyvernScript/WyvernScript/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/dark/Projects/CSharp/WyvernScript/WyvernScript/bin/Debug/WyvernScript.dll.mdb
+/home/dark/Projects/CSharp/WyvernScript/WyvernScript/bin/Debug/WyvernScript.dll
+/home/dark/Projects/CSharp/WyvernScript/WyvernScript/obj/Debug/WyvernScript.dll
+/home/dark/Projects/CSharp/WyvernScript/WyvernScript/obj/Debug/WyvernScript.dll.mdb

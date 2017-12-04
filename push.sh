@@ -1,1 +1,1 @@
-git push --set-upstream master master
+git push
